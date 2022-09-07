@@ -9,4 +9,4 @@
 	url = https://github.com/katursis/samp-cmake-modules
 [submodule "lib/omp-sdk"]
 	path = lib/omp-sdk
-	url = https://github.com/openmultiplayer/open.mp-sdk
+	url = git@github.com:openmultiplayer/open.mp-sdk.git
